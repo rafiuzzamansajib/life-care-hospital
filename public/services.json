@@ -2,36 +2,42 @@
     {
         "id": 1,
         "name": "Short Term Hospitalization",
+        "consaltant": "Ray Thomson",
         "description": "Depending on the hospital and available resources, a short-term inpatient hospital team may include psychiatrists, psychologists, registered nurses, speech-language pathologists, and occupational and recreational therapists. A hospital stay may also include specialized tests so that proper diagnoses can be made. Some of these programs may offer educational resources for youth so that credit can be earned for work done during the hospital stay",
         "img": "https://images.unsplash.com/photo-1517120026326-d87759a7b63b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGhvc3BpdGFsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
         "id": 2,
         "name": "Emergency Services",
+        "consaltant": "Bilkish Twinkle",
         "description": "At Emergency Hospital Systems, our emergency rooms are open 24/7/365, so we’re available when you need us most. We realize emergencies can’t wait, whether that’s a deep cut, broken bone, or medication overdose. When you come to one of the EHS emergency rooms, you’ll be seen by a caring and compassionate staff member. Depending on the severity of your emergency, we might show you into an exam room immediately or triage you with others. In all cases, however, we are generally able to see patients quickly, unlike the long waits experienced by patients at some of the large downtown hospitals.",
         "img": "https://images.unsplash.com/photo-1554734867-bf3c00a49371?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGhvc3BpdGFsfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
         "id": 3,
         "name": "Intensive Care Unit(ICU)",
+        "consaltant": "Sabbir Anderson",
         "description": "Almost every hospital in India provides ICU facilities for patients suffering from adverse health conditions. ICUs need to be equipped with modern technical apparatus and skilled professionals who can render best services. Depending on the type of hospital and services they focus on, there can be different types of ICUs. Some of them are, Neuro ICU, Coronary Care Unit, Neonatal ICU, Psychiatric ICU etc",
         "img": "https://images.unsplash.com/photo-1512102438733-bfa4ed29aef7?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aWN1fGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
         "id": 4,
         "name": "Pharmacy And Diagnosis",
+        "consaltant": "Jeson Christine",
         "description": "Hospital pharmacists participate in activities that may be considered diagnostic. Two reasoning approaches to diagnosis have been described: non-analytic and analytic. Of the 6 analytic traditions, the probabilistic tradition has been shown to improve diagnostic accuracy and reduce unnecessary testing. To the authors’ knowledge, pharmacists’ attitudes toward having a diagnostic role and their diagnostic knowledge and skills have never been studied.",
         "img": "https://images.unsplash.com/photo-1576091358783-a212ec293ff3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fHBoYXJtYWN5JTIwYW5kJTIwZGlhZ25vc2lzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
         "id": 5,
         "name": "Out Patient Department( OPD)",
+        "consaltant": "Arnold Mathew",
         "description": "Every hospital needs to have an OPD (Outpatient Department) as one of the core services rendered. A set of skilled doctors along with technicians must be available, who can assist patients in preliminary diagnosis and related treatments.Doctors prescribe medicines or diagnostic tests to evaluate patient’s health condition. They are also required to be available for follow up visits to monitor conditions and treatment procedures. Depending on the response, patients are either asked for admission or specialized services such as surgeries.",
         "img": "https://images.unsplash.com/photo-1597764690523-15bea4c581c9?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fG91dCUyMHBhdGllbnR8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     },
     {
         "id": 6,
         "name": "Blood Services",
+        "consaltant": "Jubiri Tesla",
         "description": "Blood donation is a vital part of worldwide healthcare. It allows for blood transfusion as a life-sustaining and life-saving procedure. Over one hundred million units of blood are donated each year throughout the world. This activity reviews donor eligibility and selection, adverse effects of donation, and pathogen reduction and inactivation for donated blood. This activity highlights the role of the interprofessional team in ensuring appropriate protocol is followed.",
         "img": "https://images.unsplash.com/photo-1542884841-9f546e727bca?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Ymxvb2QlMjBkb25hdGlvbnxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
     }
