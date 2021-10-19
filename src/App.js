@@ -1,5 +1,6 @@
 import {Switch,Route, BrowserRouter } from 'react-router-dom';
 import './App.css';
+import Appoinment from './components/Appoinment/Appoinment';
 import Header from './components/Header/Header';
 import Home from './components/Home/Home';
 import Login from './components/Login/Login';
@@ -12,7 +13,6 @@ function App() {
   return (
     <AuthProvider>
       <BrowserRouter>
-      <Header></Header>
     <Switch>
       <Route exact path="/">
        <Home></Home>
@@ -25,6 +25,9 @@ function App() {
       </Route>
       <PrivateRoute path="/service/:serviceId">
         <ServiceDitelse></ServiceDitelse>
+      </PrivateRoute>
+      <PrivateRoute path="/specialist/:specialistId">
+        <Appoinment></Appoinment>
       </PrivateRoute>
       <Route path="*">
         <NotFound></NotFound>

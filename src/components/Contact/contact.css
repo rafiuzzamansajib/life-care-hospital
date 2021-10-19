@@ -5,3 +5,8 @@
     font-size: 20px;
     color: rgb(8, 129, 241);
   }
+  @media (max-width:767px) {
+    .items{
+      padding:5px;
+    }
+  }

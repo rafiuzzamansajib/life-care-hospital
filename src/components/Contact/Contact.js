@@ -6,7 +6,7 @@ import './contact.css'
 
 const Contact = () => {
     return (
-        <div id='contact'>
+        <div id='contact' className='container'>
         <h3 className='text-center text-primary'>Contact Us</h3>
         <div className="d-flex">
             <div className="col-md-5">

@@ -16,8 +16,8 @@ const Banner = () => {
                 alt="First slide"
                 />
                 <Carousel.Caption>
-                    <h3>First slide label</h3>
-                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                    <h3>Specialist Doctors Panel</h3>
+                    <p>We have some best doctor.They teart patient very frindly</p>
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item interval={500}>
@@ -27,8 +27,8 @@ const Banner = () => {
                 alt="Second slide"
                 />
                 <Carousel.Caption>
-                <h3>Second slide label</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                <h3>Patient Ward</h3>
+                <p>Clean and Comfortable Ward.It feels patient that they are in home</p>
                 </Carousel.Caption>
              </Carousel.Item>
              <Carousel.Item>
@@ -38,8 +38,8 @@ const Banner = () => {
                 alt="Third slide"
                 />
                 <Carousel.Caption>
-                <h3>Third slide label</h3>
-                <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                <h3>Operation Theatre</h3>
+                <p>Best Segueon team perform in verious critical and Life saving surgery</p>
                 </Carousel.Caption>
              </Carousel.Item>
         </Carousel>
