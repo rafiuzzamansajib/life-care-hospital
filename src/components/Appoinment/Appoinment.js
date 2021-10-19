@@ -20,7 +20,7 @@ const Appoinment = () => {
             <div>
                 <h3 className='text-center'>{user?.displayName}</h3>
                 <p className='text-center'>Your Appoinment Has Been Confirmed</p>
-                <p className='text-center'>Your Consalten Name : <span className='fw-bold'>{getAppoinment?.name}</span></p>
+                <p className='text-center'>Your Consaltent Name : <span className='fw-bold'>{getAppoinment?.name}</span></p>
                 <p className='text-center'>{getAppoinment?.name} is specialist at <span className="text-danger"> {getAppoinment?.expertize} </span> department.
                 We Hope You will get well very Soon
                 </p>

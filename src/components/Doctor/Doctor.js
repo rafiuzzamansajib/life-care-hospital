@@ -7,11 +7,11 @@ const Doctor = ({consaltent}) => {
         <div className="col">
             <div className="card">
                  <div>
-                    <img src={img} height="200px" className="fluid m-2" alt="..." />   
+                    <img src={img} height="200px" className="img-fluid p-2" alt="..." />   
                  </div>
                 <div className="card-body">
                 <h5 className="card-title">{name}</h5>
-                <p className="">{expertize}</p>
+                <p>{expertize}</p>
                 <Link to={`/specialist/${id}`}><button className='btn btn-primary'>Get Appoinment</button></Link>
                 </div>
                 </div>

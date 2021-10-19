@@ -17,16 +17,16 @@ const ServiceDitelse = () => {
         <Header></Header>
         <div className='container'>
             <h2 className='text-center'>{ditelseService?.name}</h2>
-            <div className='border'>
-            <div className='p-5'>
-                <div>
-                    <img className="img-fluid" src={ditelseService?.img} alt="" />
-              </div>
-              <div className="mx-5">
-                <h4 className='text-center'>Service Consaltant: {ditelseService?.consaltant}</h4>
-                <p className='text-center'>{ditelseService?.description}</p>
-              </div>
-            </div>
+            <div className='d-flex border'>
+                <div className="mt-2">
+                    <div className="d-flex justify-content-center">
+                        <img width='250px' src={ditelseService?.img} alt="" />
+                </div>
+                <div className="m-5">
+                    <h4 className='text-center'>Service Consaltant: {ditelseService?.consaltant}</h4>
+                    <p className='text-center'>{ditelseService?.description}</p>
+                </div>
+                </div>
             </div>
         </div>
         </>
